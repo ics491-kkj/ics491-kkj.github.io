@@ -11,7 +11,7 @@
 Octo Screen is our app for keeping track of COVID among our users. When complete, users can use Octo Screen to indicate if they have COVID symptoms daily, check their record of previous check-ins, as well as upload their vaccination status.
 
 ## Deployment Link
-[to Octo Screen]()
+[to Octo Screen](https://octo-screen.meteorapp.com/#/)
 
 ## Pages
 
