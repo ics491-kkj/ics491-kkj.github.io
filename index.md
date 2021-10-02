@@ -15,25 +15,40 @@ Octo Screen is our app for keeping track of COVID among our users. When complete
 
 ## Pages
 
+### Landing Page
 ![](images/landing.png)
 This is the first page users see when they access the app. From here, they can either sign in if they have an account, or register an account if they don't have one.
 
+### Register Page
 ![](images/register.png)
 Users can register in this page.
 
+### Sign in Page
 ![](images/signin.png)
 Users can sign in on this page.
 
+### Home Page
 ![](images/home.png)
-This is the page users go to after signing in, allowing them to either do their daily check-in or check their check-in history.
+Once the user signs in, this is the main page where users can do their daily check-in, update vaccination status or view their check-in history.
 
+### Check in Page
 ![](images/checkin.png)
 In this page, users can indicate whether they are experiencing COVID symptoms or not.
 
+### Check in History Page
 ![](images/list.png)
 In this page, users can see a history of their previous check-ins
+
+### Vaccination Form
+![](images/vaccform.png)
+This page displays a form, where the user can input their vaccine information.
+
+### Vaccination Info Page
+![](images/vaccstatus.png)
+This page displays the users vaccine information.
 
 ## The Team
 - Jason Kulka
 - Kason Shiroma
 - Keanu Lagundimao
+- Derek Nishimoto
