@@ -24,7 +24,7 @@ Users can register in this page.
 ![](images/signin.png)
 Users can sign in on this page.
 
-![](images/landing-2.png)
+![](images/home.png)
 This is the page users go to after signing in, allowing them to either do their daily check-in or check their check-in history.
 
 ![](images/checkin.png)
