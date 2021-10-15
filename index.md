@@ -49,7 +49,7 @@ This page displays the users vaccine information.
 
 ### Vaccination Card Image
 ![](images/vacccard.png)
-At the bottom of the vaccine info page, you can see image of the users vaccination card if provided.
+At the bottom of the vaccine info page, you can see an image of the users vaccination card if provided.
 
 ## The Team
 - Jason Kulka
